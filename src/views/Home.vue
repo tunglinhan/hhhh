@@ -3,10 +3,6 @@
   .h-icon
   .t1
     p 關於學院
-  .list1
-    li.content1 學院簡介
-    li.content1 未來展望
-    li.content1 姐妹學校
   .t2
     p 學院師資
   .t3
@@ -84,17 +80,6 @@ export default {
   border-radius: 20px
   background: linear-gradient(145deg, #e6e6e6, #ffffff)
   box-shadow:  20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff
-#list1
-	background: white
-	text-align: center
-	width: 120px
-	list-style: none
-	line-height: 60px
-	border-radius: 5px
-	position: absolute
-	left: 135px
-	top: -120px
-	z-index: -1
 .t2
   position: absolute
   width: 109px
